@@ -6,7 +6,7 @@ A modern, responsive password generator built with React and Tailwind CSS. Creat
 ![GitHub last commit](https://img.shields.io/github/last-commit/ArnavSinghRawat18/Password-Generator-using-react?style=for-the-badge)
 ![License](https://img.shields.io/github/license/ArnavSinghRawat18/Password-Generator-using-react?style=for-the-badge)
 
-![Password Generator Screenshot](https://i.imgur.com/example-screenshot.png) <!-- Replace with actual screenshot -->
+![Password Generator Screenshot](./ss.jpg) <!-- Replace with actual screenshot -->
 
 ## Features
 
