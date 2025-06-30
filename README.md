@@ -1,30 +1,39 @@
-# 🔐 Password Generator using React
+# 🔐 React Password Generator
 
-A responsive and modern **Password Generator** built using **React.js** and **Tailwind CSS**. Easily generate secure, random passwords with customizable options.
+A modern, responsive password generator built with React and Tailwind CSS. Create strong, random passwords with customizable options.
 
-## 🌟 Features
+[![Live Demo](https://img.shields.io/badge/Demo-Live-green?style=for-the-badge)](https://6862a0dc5e5b16aaa40b2b4a--passgenbyarnav.netlify.app/)
+![GitHub last commit](https://img.shields.io/github/last-commit/ArnavSinghRawat18/Password-Generator-using-react?style=for-the-badge)
+![License](https://img.shields.io/github/license/ArnavSinghRawat18/Password-Generator-using-react?style=for-the-badge)
 
-- 🎲 Generate random passwords instantly
-- 🔢 Choose password length (8–32 characters)
-- 🔁 Option to include **numbers** and **symbols**
-- 📋 One-click **copy to clipboard**
-- 📱 Fully **responsive** on mobile, tablet, and desktop
-- 💡 Toast message: "✅ Password is copied!"
-- ✨ Clean UI with **Tailwind CSS glassmorphism**
-- 🔗 Source code link & attribution footer
+![Password Generator Screenshot](https://i.imgur.com/example-screenshot.png) <!-- Replace with actual screenshot -->
 
-## 🖥️ Demo
+## Features
 
-Coming soon... (You can deploy this on [Vercel](https://vercel.com) or [Netlify](https://netlify.com))
+- 🎚️ Adjustable password length (8-32 characters)
+- 🔢 Toggle numbers inclusion
+- ✨ Toggle special characters inclusion
+- 📋 One-click copy to clipboard with visual feedback
+- 🎨 Beautiful gradient UI with glass morphism effect
+- 📱 Fully responsive design
+- 🔄 Manual regeneration button
+- ⚡ Instant generation on settings change
+- ✅ Toast notifications for user actions
 
-## 📸 Preview
+## 🚀 Live Deployment
 
-![Screenshot](./screenshot.png) <!-- Optional: Add a screenshot to your repo -->
+The application is deployed on Netlify:  
+👉 [https://passgenbyarnav.netlify.app/](https://6862a0dc5e5b16aaa40b2b4a--passgenbyarnav.netlify.app/)
 
-## 🚀 Getting Started
+## Technologies Used
 
-### 1. Clone the Repository
+- React.js (Vite)
+- Tailwind CSS
+- React Hooks (useState, useEffect, useCallback, useRef)
+- Netlify (Hosting)
 
-```bash
-git clone https://github.com/ArnavSinghRawat18/Password-Generator-using-react.git
-cd Password-Generator-using-react
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ArnavSinghRawat18/Password-Generator-using-react.git
